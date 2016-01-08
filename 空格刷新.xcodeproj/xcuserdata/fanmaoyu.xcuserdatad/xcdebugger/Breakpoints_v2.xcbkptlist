@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x7a7a;&#x683c;&#x5237;&#x65b0;/FMRefresh.m"
+            timestampString = "473916922.939844"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "171"
+            endingLineNumber = "171"
+            landmarkName = "-setState:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x7a7a;&#x683c;&#x5237;&#x65b0;/FMRefresh.m"
+            timestampString = "473916990.328265"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "182"
+            endingLineNumber = "182"
+            landmarkName = "-setState:"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[FMRefresh setState:]"
+                  moduleName = "&#x7a7a;&#x683c;&#x5237;&#x65b0;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fanmaoyu/Desktop/myfan_testcode/%E7%A9%BA%E6%A0%BC%E5%88%B7%E6%96%B0/%E7%A9%BA%E6%A0%BC%E5%88%B7%E6%96%B0/FMRefresh.m"
+                  timestampString = "473915536.203158"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__22-[FMRefresh setState:]_block_invoke115"
+                  moduleName = "&#x7a7a;&#x683c;&#x5237;&#x65b0;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fanmaoyu/Desktop/myfan_testcode/%E7%A9%BA%E6%A0%BC%E5%88%B7%E6%96%B0/%E7%A9%BA%E6%A0%BC%E5%88%B7%E6%96%B0/FMRefresh.m"
+                  timestampString = "473915536.203321"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "179"
+                  endingLineNumber = "179"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
